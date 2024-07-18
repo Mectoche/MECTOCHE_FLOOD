@@ -2,7 +2,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rvZynSh/watching.gif" alt="watching" border="0"></a>
 </p>
 
-#       MTFLOOD v1.0
+#       *MTFLOOD*
 
 # About.
 
