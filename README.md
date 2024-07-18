@@ -2,7 +2,9 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rvZynSh/watching.gif" alt="watching" border="0"></a>
 </p>
 
-# MTFlood - About.
+# MTFlOOD v1.0
+
+# About.
 
 - **[MTFLOOD](https://github.com/Mectoche/MTFLOOD)** It's a program to troll your friends on any social network.
 
