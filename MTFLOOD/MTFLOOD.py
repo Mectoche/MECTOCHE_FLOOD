@@ -124,6 +124,8 @@ class MTFLOOD:
 
 if __name__ == "__main__":
     menu = tk.Tk()
+    
     app = MTFLOOD(menu)
-    app.bgAnimation()  # Inicia a animação do fundo
+    app.bgAnimation()  
+    
     menu.mainloop()
