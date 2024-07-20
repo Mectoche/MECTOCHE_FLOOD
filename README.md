@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rvZynSh/watching.gif" alt="watching" border="0"></a>
+<a href="https://github.com/Mectoche/MTFLOOD"><img src="https://i.ibb.co/rvZynSh/watching.gif" alt="watching" border="0"></a>
 </p>
 
 #       *MTFLOOD*
@@ -37,7 +37,7 @@
 # Image to retract.
 
 
-<a href="https://ibb.co/kSWdvYy"><img src="https://i.ibb.co/5Rf7wq9/Sem-t-tulo.png" alt="Sem-t-tulo" border="0"></a>
+<a href="https://github.com/Mectoche/MTFLOOD/"><img src="https://i.ibb.co/5Rf7wq9/Sem-t-tulo.png" alt="Sem-t-tulo" border="0"></a>
 
 
 # Stop Flood.
