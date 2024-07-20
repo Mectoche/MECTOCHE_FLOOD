@@ -13,7 +13,7 @@
 - Note: remember to install python and its dependencies
 
 # Dowload
-- To download click [here](https://github.com/Mectoche/MTFLOOD/tree/main/MTFLOOD/EXE)
+- To download the program click [HERE](https://github.com/Mectoche/MTFLOOD/tree/main/MTFLOOD/EXE)
 
 #
 
