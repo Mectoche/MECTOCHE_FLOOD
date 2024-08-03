@@ -6,20 +6,20 @@
 
 # About.
 
-- **[MTFLOOD](https://github.com/Mectoche/MTFLOOD)** It's a program to troll your friends on any social network.
+- **[MTFLOOD](https://github.com/Mectoche/MTFLOOD)** é um programa para trollar seus amigos em qualquer rede social.
 
-- Made for those who like a good prank.
+- Feito para aqueles que gostam de uma boa brincadeira.
 
-- Note: remember to install python and its dependencies
+- Nota: lembre-se de instalar o Python e suas dependências
 
-# Dowload
-- To download the program click [HERE](https://github.com/Mectoche/MTFLOOD/tree/main/MTFLOOD/EXE)
+# Download
+- para baixar o programa, clique [AQUI](https://github.com/Mectoche/MTFLOOD/tree/main/MTFLOOD/EXE)
 
 #
 
 # Flood of words.
 
-- I used this system to output one word per second.
+- Eu usei esse sistema para saída de uma palavra por segundo.
 
 ```python
 
@@ -37,7 +37,7 @@
 
 
 ```
-# Image to retract.
+# Imagem para retratar
 
 
 <a href="https://github.com/Mectoche/MTFLOOD/"><img src="https://i.ibb.co/5Rf7wq9/Sem-t-tulo.png" alt="Sem-t-tulo" border="0"></a>
@@ -45,7 +45,7 @@
 
 # Stop Flood.
 
-- Function to stop the flood.
+-Função para parar o flood.
 
 ```python
 
@@ -60,9 +60,9 @@ def button_exit(self):
 
 ```
 
-# Menu animation system.
+# Sistema de animação de menu
 
-- This function was created just to improve the appearance of the program.
+- Essa função foi criada apenas para melhorar a aparência do programa.
 
 ```python
 # @Mectoche
