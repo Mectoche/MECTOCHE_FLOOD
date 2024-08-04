@@ -2,24 +2,24 @@
 <a href="https://github.com/Mectoche/MTFLOOD"><img src="https://i.ibb.co/rvZynSh/watching.gif" alt="watching" border="0"></a>
 </p>
 
-#       *MTFLOOD*
+#       ***MTFLOOD***
 
-# About.
+# _Sobre._
 
-- **[MTFLOOD](https://github.com/Mectoche/MTFLOOD)** é um programa para trollar seus amigos em qualquer rede social.
+- **[MTFLOOD](https://github.com/Mectoche/MTFLOOD)** ***é um programa para trollar seus amigos em qualquer rede social.***
 
-- Feito para aqueles que gostam de uma boa brincadeira.
+- ***Feito para aqueles que gostam de uma boa brincadeira.***
 
-- Nota: lembre-se de instalar o Python e suas dependências
+- ***Nota: lembre-se de instalar o Python e suas dependências***
 
-# Download
-- para baixar o programa, clique [AQUI](https://github.com/Mectoche/MTFLOOD/tree/main/MTFLOOD/EXE)
+# _Download_
+- ***para baixar o programa, clique [AQUI](https://github.com/Mectoche/MTFLOOD/tree/main/MTFLOOD/EXE)***
 
 #
 
-# Flood of words.
+# _Flood of words._
 
-- Eu usei esse sistema para saída de uma palavra por segundo.
+- ***Eu usei esse sistema para saída de uma palavra por segundo.***
 
 ```python
 
@@ -37,16 +37,16 @@
 
 
 ```
-# Imagem para retratar
+# _Imagem para retratar_
 
 <p align="center">
 <a href="https://github.com/Mectoche/MTFLOOD/"><img src="https://i.ibb.co/5Rf7wq9/Sem-t-tulo.png" alt="watching" border="0"></a>
 </p>
 
 
-# Stop Flood.
+# _Stop Flood._
 
--Função para parar o flood.
+-***Função para parar o flood.***
 
 ```python
 
@@ -61,9 +61,9 @@ def button_exit(self):
 
 ```
 
-# Sistema de animação de menu
+# _Sistema de animação de menu_
 
-- Essa função foi criada apenas para melhorar a aparência do programa.
+- ***Essa função foi criada apenas para melhorar a aparência do programa.***
 
 ```python
 # @Mectoche
