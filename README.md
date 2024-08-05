@@ -6,7 +6,7 @@
 
 # _About._
 
-- **[MTFLOOD](https://github.com/Mectoche/MTFLOOD)** ***is a program to troll your friends on any social network.***
+- **[MECTOCHE FLOOD](https://github.com/Mectoche/MTFLOOD)** ***is a program to troll your friends on any social network.***
 
 - ***Made for those who like a good joke.***
 
